@@ -4,12 +4,13 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.lineageos.dolby
+package org.lineageos.dolby.preference
 
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.preference.PreferenceDataStore
 import androidx.preference.PreferenceManager
+import org.lineageos.dolby.DolbyConstants
 
 class DolbyPreferenceStore(
     private val context: Context

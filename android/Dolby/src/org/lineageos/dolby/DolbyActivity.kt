@@ -7,6 +7,7 @@
 package org.lineageos.dolby
 
 import android.os.Bundle
+import org.lineageos.dolby.preference.DolbySettingsFragment
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity
 
 private const val TAG = "DolbyActivity"
