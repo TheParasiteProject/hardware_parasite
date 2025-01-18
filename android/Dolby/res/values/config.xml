@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023-24 Paranoid Android
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <bool name="config_profileSupported">true</bool>
+    <bool name="config_presetSupported">true</bool>
+    <bool name="config_ieqSupported">true</bool>
+    <bool name="config_spkVirtualizerSupported">true</bool>
+    <bool name="config_hpVirtualizerSupported">true</bool>
+    <bool name="config_stereoSupported">true</bool>
+    <bool name="config_dialogueEnhancerSupported">true</bool>
+    <bool name="config_bassEnhancerSupported">true</bool>
+    <bool name="config_volumeLevelerSupported">true</bool>
+</resources>
